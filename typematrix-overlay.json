@@ -1,0 +1,1259 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 0,
+    "overlay_width": 1515,
+    "overlay_height": 706,
+    "elements": [
+        {
+            "type": 1,
+            "pos": [
+                0,
+                101
+            ],
+            "id": "keyboard tilde",
+            "z_level": "0",
+            "mapping": [
+                1340,
+                413,
+                100,
+                100
+            ],
+            "code": 41
+        },
+        {
+            "type": 1,
+            "pos": [
+                101,
+                101
+            ],
+            "id": "keyboard 1",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1,
+                100,
+                100
+            ],
+            "code": 2
+        },
+        {
+            "type": 1,
+            "pos": [
+                202,
+                101
+            ],
+            "id": "keyboard 2",
+            "z_level": "0",
+            "mapping": [
+                104,
+                1,
+                100,
+                100
+            ],
+            "code": 3
+        },
+        {
+            "type": 1,
+            "pos": [
+                303,
+                101
+            ],
+            "id": "keyboard 3",
+            "z_level": "0",
+            "mapping": [
+                207,
+                1,
+                100,
+                100
+            ],
+            "code": 4
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                101
+            ],
+            "id": "keyboard 4",
+            "z_level": "0",
+            "mapping": [
+                310,
+                1,
+                100,
+                100
+            ],
+            "code": 5
+        },
+        {
+            "type": 1,
+            "pos": [
+                505,
+                101
+            ],
+            "id": "keyboard 5",
+            "z_level": "0",
+            "mapping": [
+                413,
+                1,
+                100,
+                100
+            ],
+            "code": 6
+        },
+        {
+            "type": 1,
+            "pos": [
+                606,
+                101
+            ],
+            "id": "keyboard backspace",
+            "z_level": "0",
+            "mapping": [
+                1237,
+                1,
+                100,
+                201
+            ],
+            "code": 14
+        },
+        {
+            "type": 1,
+            "pos": [
+                707,
+                101
+            ],
+            "id": "keyboard 6",
+            "z_level": "0",
+            "mapping": [
+                516,
+                1,
+                100,
+                100
+            ],
+            "code": 7
+        },
+        {
+            "type": 1,
+            "pos": [
+                808,
+                101
+            ],
+            "id": "keyboard 7",
+            "z_level": "0",
+            "mapping": [
+                619,
+                1,
+                100,
+                100
+            ],
+            "code": 8
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                101
+            ],
+            "id": "keyboard 8",
+            "z_level": "0",
+            "mapping": [
+                722,
+                1,
+                100,
+                100
+            ],
+            "code": 9
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                101
+            ],
+            "id": "keyboard 9",
+            "z_level": "0",
+            "mapping": [
+                825,
+                1,
+                100,
+                100
+            ],
+            "code": 10
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                101
+            ],
+            "id": "keyboard 0",
+            "z_level": "0",
+            "mapping": [
+                928,
+                1,
+                100,
+                100
+            ],
+            "code": 11
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                101
+            ],
+            "id": "keyboard minus",
+            "z_level": "0",
+            "mapping": [
+                1031,
+                1,
+                100,
+                100
+            ],
+            "code": 12
+        },
+        {
+            "type": 1,
+            "pos": [
+                1314,
+                101
+            ],
+            "id": "keyboard plus",
+            "z_level": "0",
+            "mapping": [
+                1134,
+                1,
+                100,
+                100
+            ],
+            "code": 13
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                202
+            ],
+            "id": "keyboard tab",
+            "z_level": "0",
+            "mapping": [
+                1134,
+                825,
+                100,
+                100
+            ],
+            "code": 15
+        },
+        {
+            "type": 1,
+            "pos": [
+                101,
+                202
+            ],
+            "id": "keyboard q",
+            "z_level": "0",
+            "mapping": [
+                1,
+                207,
+                100,
+                100
+            ],
+            "code": 16
+        },
+        {
+            "type": 1,
+            "pos": [
+                202,
+                202
+            ],
+            "id": "keyboard w",
+            "z_level": "0",
+            "mapping": [
+                104,
+                207,
+                100,
+                100
+            ],
+            "code": 17
+        },
+        {
+            "type": 1,
+            "pos": [
+                303,
+                202
+            ],
+            "id": "keyboard e",
+            "z_level": "0",
+            "mapping": [
+                207,
+                207,
+                100,
+                100
+            ],
+            "code": 18
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                202
+            ],
+            "id": "keyboard r",
+            "z_level": "0",
+            "mapping": [
+                310,
+                207,
+                100,
+                100
+            ],
+            "code": 19
+        },
+        {
+            "type": 1,
+            "pos": [
+                505,
+                202
+            ],
+            "id": "keyboard t",
+            "z_level": "0",
+            "mapping": [
+                413,
+                207,
+                100,
+                100
+            ],
+            "code": 20
+        },
+        {
+            "type": 1,
+            "pos": [
+                707,
+                202
+            ],
+            "id": "keyboard y",
+            "z_level": "0",
+            "mapping": [
+                516,
+                207,
+                100,
+                100
+            ],
+            "code": 21
+        },
+        {
+            "type": 1,
+            "pos": [
+                808,
+                202
+            ],
+            "id": "keyboard u",
+            "z_level": "0",
+            "mapping": [
+                619,
+                207,
+                100,
+                100
+            ],
+            "code": 22
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                202
+            ],
+            "id": "keyboard i",
+            "z_level": "0",
+            "mapping": [
+                722,
+                207,
+                100,
+                100
+            ],
+            "code": 23
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                202
+            ],
+            "id": "keyboard o",
+            "z_level": "0",
+            "mapping": [
+                825,
+                207,
+                100,
+                100
+            ],
+            "code": 24
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                202
+            ],
+            "id": "keyboard p",
+            "z_level": "0",
+            "mapping": [
+                928,
+                207,
+                100,
+                100
+            ],
+            "code": 25
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                202
+            ],
+            "id": "keyboard lbrkt",
+            "z_level": "0",
+            "mapping": [
+                1031,
+                207,
+                100,
+                100
+            ],
+            "code": 26
+        },
+        {
+            "type": 1,
+            "pos": [
+                1314,
+                202
+            ],
+            "id": "keyboard rbrkt",
+            "z_level": "0",
+            "mapping": [
+                1134,
+                207,
+                100,
+                100
+            ],
+            "code": 27
+        },
+        {
+            "type": 1,
+            "pos": [
+                101,
+                303
+            ],
+            "id": "keyboard a",
+            "z_level": "0",
+            "mapping": [
+                1,
+                413,
+                100,
+                100
+            ],
+            "code": 30
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                303
+            ],
+            "id": "keyboard lshift",
+            "z_level": "0",
+            "mapping": [
+                1135,
+                413,
+                100,
+                201
+            ],
+            "code": 42
+        },
+        {
+            "type": 1,
+            "pos": [
+                202,
+                303
+            ],
+            "id": "keyboard s",
+            "z_level": "0",
+            "mapping": [
+                104,
+                413,
+                100,
+                100
+            ],
+            "code": 31
+        },
+        {
+            "type": 1,
+            "pos": [
+                303,
+                303
+            ],
+            "id": "keyboard d",
+            "z_level": "0",
+            "mapping": [
+                207,
+                413,
+                100,
+                100
+            ],
+            "code": 32
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                303
+            ],
+            "id": "keyboard f",
+            "z_level": "0",
+            "mapping": [
+                310,
+                413,
+                100,
+                100
+            ],
+            "code": 33
+        },
+        {
+            "type": 1,
+            "pos": [
+                505,
+                303
+            ],
+            "id": "keyboard g",
+            "z_level": "0",
+            "mapping": [
+                414,
+                413,
+                100,
+                100
+            ],
+            "code": 34
+        },
+        {
+            "type": 1,
+            "pos": [
+                606,
+                303
+            ],
+            "id": "keyboard enter",
+            "z_level": "0",
+            "mapping": [
+                1340,
+                1,
+                100,
+                201
+            ],
+            "code": 28
+        },
+        {
+            "type": 1,
+            "pos": [
+                707,
+                303
+            ],
+            "id": "keyboard h",
+            "z_level": "0",
+            "mapping": [
+                516,
+                413,
+                100,
+                100
+            ],
+            "code": 35
+        },
+        {
+            "type": 1,
+            "pos": [
+                808,
+                303
+            ],
+            "id": "keyboard j",
+            "z_level": "0",
+            "mapping": [
+                619,
+                413,
+                100,
+                100
+            ],
+            "code": 36
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                303
+            ],
+            "id": "keyboard k",
+            "z_level": "0",
+            "mapping": [
+                722,
+                413,
+                100,
+                100
+            ],
+            "code": 37
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                303
+            ],
+            "id": "keyboard l",
+            "z_level": "0",
+            "mapping": [
+                825,
+                413,
+                100,
+                100
+            ],
+            "code": 38
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                303
+            ],
+            "id": "keyboard semi",
+            "z_level": "0",
+            "mapping": [
+                928,
+                413,
+                100,
+                100
+            ],
+            "code": 39
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                303
+            ],
+            "id": "keyboard quote",
+            "z_level": "0",
+            "mapping": [
+                1031,
+                413,
+                100,
+                100
+            ],
+            "code": 40
+        },
+        {
+            "type": 1,
+            "pos": [
+                1314,
+                303
+            ],
+            "id": "keyboard rshift",
+            "z_level": "0",
+            "mapping": [
+                1134,
+                413,
+                100,
+                201
+            ],
+            "code": 54
+        },
+        {
+            "type": 1,
+            "pos": [
+                101,
+                404
+            ],
+            "id": "keyboard z",
+            "z_level": "0",
+            "mapping": [
+                1,
+                619,
+                100,
+                100
+            ],
+            "code": 44
+        },
+        {
+            "type": 1,
+            "pos": [
+                202,
+                404
+            ],
+            "id": "keyboard x",
+            "z_level": "0",
+            "mapping": [
+                104,
+                619,
+                100,
+                100
+            ],
+            "code": 45
+        },
+        {
+            "type": 1,
+            "pos": [
+                303,
+                404
+            ],
+            "id": "keyboard c",
+            "z_level": "0",
+            "mapping": [
+                207,
+                619,
+                100,
+                100
+            ],
+            "code": 46
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                404
+            ],
+            "id": "keyboard v",
+            "z_level": "0",
+            "mapping": [
+                310,
+                619,
+                100,
+                100
+            ],
+            "code": 47
+        },
+        {
+            "type": 1,
+            "pos": [
+                505,
+                404
+            ],
+            "id": "keyboard b",
+            "z_level": "0",
+            "mapping": [
+                413,
+                619,
+                100,
+                100
+            ],
+            "code": 48
+        },
+        {
+            "type": 1,
+            "pos": [
+                707,
+                404
+            ],
+            "id": "keyboard n",
+            "z_level": "0",
+            "mapping": [
+                516,
+                619,
+                100,
+                100
+            ],
+            "code": 49
+        },
+        {
+            "type": 1,
+            "pos": [
+                808,
+                404
+            ],
+            "id": "keyboard m",
+            "z_level": "0",
+            "mapping": [
+                619,
+                619,
+                100,
+                100
+            ],
+            "code": 50
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                404
+            ],
+            "id": "keyboard comma",
+            "z_level": "0",
+            "mapping": [
+                722,
+                619,
+                100,
+                100
+            ],
+            "code": 51
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                404
+            ],
+            "id": "keyboard dot",
+            "z_level": "0",
+            "mapping": [
+                825,
+                619,
+                100,
+                100
+            ],
+            "code": 52
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                404
+            ],
+            "id": "keyboard slash",
+            "z_level": "0",
+            "mapping": [
+                928,
+                619,
+                100,
+                100
+            ],
+            "code": 53
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                404
+            ],
+            "id": "keyboard bslash",
+            "z_level": "0",
+            "mapping": [
+                1031,
+                619,
+                100,
+                100
+            ],
+            "code": 43
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                505
+            ],
+            "id": "keyboard lctrl",
+            "z_level": "0",
+            "mapping": [
+                1,
+                825,
+                100,
+                100
+            ],
+            "code": 29
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                505
+            ],
+            "id": "keyboard space",
+            "z_level": "0",
+            "mapping": [
+                104,
+                825,
+                504,
+                100
+            ],
+            "code": 57
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                505
+            ],
+            "id": "keyboard end",
+            "z_level": "0",
+            "mapping": [
+                825,
+                825,
+                100,
+                100
+            ],
+            "code": 3663
+        },
+        {
+            "type": 1,
+            "pos": [
+                1314,
+                505
+            ],
+            "id": "keyboard rctrl",
+            "z_level": "0",
+            "mapping": [
+                1237,
+                413,
+                100,
+                201
+            ],
+            "code": 3613
+        },
+        {
+            "type": 1,
+            "pos": [
+                1415,
+                505
+            ],
+            "id": "keyboard pgup",
+            "z_level": "0",
+            "mapping": [
+                928,
+                825,
+                100,
+                100
+            ],
+            "code": 3657
+        },
+        {
+            "type": 1,
+            "pos": [
+                1415,
+                606
+            ],
+            "id": "keyboard pgdn",
+            "z_level": "0",
+            "mapping": [
+                1031,
+                825,
+                100,
+                100
+            ],
+            "code": 3665
+        },
+        {
+            "type": 1,
+            "pos": [
+                606,
+                0
+            ],
+            "id": "keyboard del",
+            "z_level": "0",
+            "mapping": [
+                619,
+                825,
+                100,
+                100
+            ],
+            "code": 3667
+        },
+        {
+            "type": 1,
+            "pos": [
+                0,
+                0
+            ],
+            "id": "keyboard esc",
+            "z_level": 0,
+            "mapping": [
+                1237,
+                825,
+                100,
+                100
+            ],
+            "code": 1
+        },
+        {
+            "type": 1,
+            "pos": [
+                101,
+                0
+            ],
+            "id": "keyboard f1",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1031,
+                100,
+                100
+            ],
+            "code": 59
+        },
+        {
+            "type": 1,
+            "pos": [
+                202,
+                0
+            ],
+            "id": "keyboard f2",
+            "z_level": "0",
+            "mapping": [
+                104,
+                1031,
+                100,
+                100
+            ],
+            "code": 60
+        },
+        {
+            "type": 1,
+            "pos": [
+                303,
+                0
+            ],
+            "id": "keyboard f3",
+            "z_level": 0,
+            "mapping": [
+                207,
+                1031,
+                100,
+                100
+            ],
+            "code": 61
+        },
+        {
+            "type": 1,
+            "pos": [
+                404,
+                0
+            ],
+            "id": "keyboard f4",
+            "z_level": "0",
+            "mapping": [
+                310,
+                1031,
+                100,
+                100
+            ],
+            "code": 62
+        },
+        {
+            "type": 1,
+            "pos": [
+                505,
+                0
+            ],
+            "id": "keyboard f5",
+            "z_level": "0",
+            "mapping": [
+                413,
+                1031,
+                100,
+                100
+            ],
+            "code": 63
+        },
+        {
+            "type": 1,
+            "pos": [
+                707,
+                0
+            ],
+            "id": "keyboard f6",
+            "z_level": "0",
+            "mapping": [
+                516,
+                1031,
+                100,
+                100
+            ],
+            "code": 64
+        },
+        {
+            "type": 1,
+            "pos": [
+                808,
+                0
+            ],
+            "id": "keyboard f7",
+            "z_level": "0",
+            "mapping": [
+                619,
+                1031,
+                100,
+                100
+            ],
+            "code": 65
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                0
+            ],
+            "id": "keyboard f8",
+            "z_level": "0",
+            "mapping": [
+                722,
+                1031,
+                100,
+                100
+            ],
+            "code": 66
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                0
+            ],
+            "id": "keyboard f9",
+            "z_level": "0",
+            "mapping": [
+                825,
+                1031,
+                100,
+                100
+            ],
+            "code": 67
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                0
+            ],
+            "id": "keyboard f10",
+            "z_level": "0",
+            "mapping": [
+                928,
+                1031,
+                100,
+                100
+            ],
+            "code": 68
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                0
+            ],
+            "id": "keyboard f11",
+            "z_level": 0,
+            "mapping": [
+                1031,
+                1031,
+                100,
+                100
+            ],
+            "code": 87
+        },
+        {
+            "type": 1,
+            "pos": [
+                1315,
+                0
+            ],
+            "id": "keyboard f12",
+            "z_level": "0",
+            "mapping": [
+                1134,
+                1031,
+                100,
+                100
+            ],
+            "code": 88
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                505
+            ],
+            "id": "keyboard up",
+            "z_level": "0",
+            "mapping": [
+                1237,
+                1031,
+                100,
+                100
+            ],
+            "code": 57416
+        },
+        {
+            "type": 1,
+            "pos": [
+                1112,
+                606
+            ],
+            "id": "keyboard down",
+            "z_level": "0",
+            "mapping": [
+                1340,
+                1031,
+                100,
+                100
+            ],
+            "code": 57424
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                606
+            ],
+            "id": "keyboard left",
+            "z_level": "0",
+            "mapping": [
+                1340,
+                825,
+                100,
+                100
+            ],
+            "code": 57419
+        },
+        {
+            "type": 1,
+            "pos": [
+                1213,
+                606
+            ],
+            "id": "keyboard right",
+            "z_level": "0",
+            "mapping": [
+                1443,
+                825,
+                100,
+                100
+            ],
+            "code": 57421
+        },
+        {
+            "type": 1,
+            "pos": [
+                1011,
+                505
+            ],
+            "id": "keyboard homr",
+            "z_level": "0",
+            "mapping": [
+                1340,
+                619,
+                100,
+                100
+            ],
+            "code": 3655
+        },
+        {
+            "type": 1,
+            "pos": [
+                909,
+                606
+            ],
+            "id": "keyboard ralt",
+            "z_level": "0",
+            "mapping": [
+                722,
+                825,
+                100,
+                100
+            ],
+            "code": 3640
+        }
+    ]
+}
